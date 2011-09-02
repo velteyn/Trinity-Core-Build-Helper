@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Trinity_Core_Build_Helper_2008.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TrinityURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://github.com/TrinityCore/TrinityCore/zipball/master</Value>
+    </Setting>
+    <Setting Name="ProxySettings" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProxyPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MySqlBinDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Projects\AwkwardDev_ pack_version_3.0.1\server\mysql\bin</Value>
+    </Setting>
+    <Setting Name="MysqlIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="MySqlPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="MySqlPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nazgul</Value>
+    </Setting>
+    <Setting Name="MySqlRoot" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="FullDBLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://github.com/downloads/TrinityCore/TrinityCore/TDB_full_335.11.41_2011_06_18.rar</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

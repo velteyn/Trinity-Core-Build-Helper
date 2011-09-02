@@ -1,0 +1,16 @@
+Hello,
+this is my first community program and you have to use it at your own risk, because its not finished and I'm not responsable
+in any way to what could happen to YOU using this ! So BE WARNED !!
+
+What it should do:
+
+1) It downloads Trinity Core Tarball
+2) Uncompresses it
+3) Builds the database downloading/uncompressing the last big world db and creating the rest
+
+It lacks a settings window !! So you have to set all your settings using Visual C# Express or Mono Develop
+
+I hope that someone helps me to finish it 
+Thank you
+
+

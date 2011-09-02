@@ -1,0 +1,21 @@
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\Trinity Core Build Helper 2008.exe.config
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\Trinity Core Build Helper 2008.exe
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\Trinity Core Build Helper 2008.pdb
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity_Core_Build_Helper_2008.MainWindow.resources
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity_Core_Build_Helper_2008.Properties.Resources.resources
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity Core Build Helper 2008.csproj.GenerateResource.Cache
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity Core Build Helper 2008.exe
+C:\Documents and Settings\velteyn.RED-VHJJF8VQC4V\Documenti\Visual Studio 2008\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity Core Build Helper 2008.pdb
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\Trinity Core Build Helper 2008.exe.config
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity Core Build Helper 2008.exe
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity Core Build Helper 2008.pdb
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\Trinity Core Build Helper 2008.exe
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\Trinity Core Build Helper 2008.pdb
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity_Core_Build_Helper_2008.MainWindow.resources
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity_Core_Build_Helper_2008.Properties.Resources.resources
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\obj\Debug\Trinity Core Build Helper 2008.csproj.GenerateResource.Cache
+C:\Projects\Trinity Core Build Helper 2008\Trinity Core Build Helper 2008\bin\Debug\ChilkatDotNet2.dll
